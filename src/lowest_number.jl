@@ -17,7 +17,7 @@ function lower_num(num1, num2)
     else
         lowest = num2
     end
-    println("The lowest number is " * lowest)
+    println("The lowest number is ", lowest)
 end
 
 println("Enter the first number: ")
